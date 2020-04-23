@@ -1,4 +1,4 @@
-# Arduino signals library
+# Baja Bruin Racing - Arduino signals library
 
 Arduino functions for common system identification signals. Currently includes sinusoids and logarithmic chirps.
 
