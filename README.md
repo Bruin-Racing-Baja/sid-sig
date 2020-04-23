@@ -1,6 +1,6 @@
 # Arduino signals library
 
-Functions for common system identification signals. Currently includes sinusoids and logarithmic chirps.
+Arduino functions for common system identification signals. Currently includes sinusoids and logarithmic chirps.
 
 ## Installation
 
