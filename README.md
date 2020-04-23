@@ -1,3 +1,5 @@
+This repo has migrated! New location is [Bruin-Racing-Baja/ECVT-Control](https://github.com/Bruin-Racing-Baja/ECVT-Control)
+
 # Arduino signals library
 
 Arduino functions for common system identification signals. Currently includes sinusoids and logarithmic chirps.
